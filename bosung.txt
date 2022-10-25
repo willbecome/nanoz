@@ -10,3 +10,5 @@
 ||vlxx.sex##ads
 ||qph.fs.quoracdn.net^
 ||vlxx.sex##adx
+||vnexpress.net##banner_top
+||vnexpress.net#.banner_mobile_300x250
