@@ -12,3 +12,4 @@
 ||vlxx.sex##adx
 ||vnexpress.net##banner_top
 ||vnexpress.net#.banner_mobile_300x250
+||vnexpress.net#.section box_category_v2 section_ads_300x250
