@@ -16,3 +16,6 @@
 ||vnexpress.net##.section box_category_v2 section_ads_300x250
 ||vnexpress.net##sis_breakpage
 ||vnexpress.net##section.section box_category_v2 section_ads_300x250
+||vnexpress.net##.section
+||vnexpress.net##section
+||vnexpress.net##section box_category_v2 section_ads_300x250
