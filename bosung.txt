@@ -20,8 +20,8 @@
 ||vnexpress.net##section
 ||vnexpress.net##section box_category_v2 section_ads_300x250
 
-||vnexpress.net###credential_picker_iframe
-||vnexpress.net###banner_top
+||vnexpress.net##credential_picker_iframe
+||vnexpress.net##banner_top
 ||vnexpress.net##section.width_common.list_stream_thuongvien
 ||vnexpress.net##section.section.box_category_v2.section_ads_300x250
 
