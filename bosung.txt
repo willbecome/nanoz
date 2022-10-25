@@ -25,3 +25,8 @@
 ||vnexpress.net##section.width_common.list_stream_thuongvien
 ||vnexpress.net##section.section.box_category_v2.section_ads_300x250
 
+vnexpress.net###sis_popup
+vnexpress.net##.article_ads
+vnexpress.net##.article_ads_300x250
+vnexpress.net##.banner_mobile_300x250
+vnexpress.net,ione.net###supper_masthead
